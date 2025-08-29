@@ -1,4 +1,4 @@
-# The Source of Change: Bettering Online Communities Can Begin with You
+# DjangoCon US 2025: The Source of Change: Bettering Online Communities Can Begin with You
 
 ## Helpful Links
 
